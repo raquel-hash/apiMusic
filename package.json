@@ -18,8 +18,8 @@
     "mysql2": "^1.6.5",
     "nodemon": "^1.19.1",
     "pug": "2.0.0-beta11",
-    "sequelize": "^5.21.0",
+    "sequelize": "^5.21.2",
     "sequelize-cli": "^5.5.1",
-    "tedious": "^6.3.0"
+    "tedious": "^6.6.2"
   }
 }

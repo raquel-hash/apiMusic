@@ -1,17 +1,248 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65bc3936-187a-4e8e-b8e9-4d57ebdf5f01" name="Default Changelist" comment="" />
+    <list default="true" id="65bc3936-187a-4e8e-b8e9-4d57ebdf5f01" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/readable-stream/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/readable-stream/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-azure-env/dist/msRestAzureEnv.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-azure-env/dist/msRestAzureEnv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-azure-env/dist/msRestAzureEnv.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-azure-env/dist/msRestAzureEnv.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-azure-env/dist/msRestAzureEnv.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-azure-env/dist/msRestAzureEnv.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-azure-env/dist/msRestAzureEnv.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-azure-env/dist/msRestAzureEnv.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-azure-env/es/lib/azureEnvironment.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-azure-env/es/lib/azureEnvironment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-azure-env/es/lib/azureEnvironment.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-azure-env/es/lib/azureEnvironment.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-azure-env/lib/azureEnvironment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-azure-env/lib/azureEnvironment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-azure-env/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-azure-env/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/Changelog.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/Changelog.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/applicationTokenCertificateCredentials.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/applicationTokenCertificateCredentials.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/applicationTokenCertificateCredentials.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/applicationTokenCertificateCredentials.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/applicationTokenCredentials.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/applicationTokenCredentials.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/applicationTokenCredentials.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/applicationTokenCredentials.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/applicationTokenCredentials.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/applicationTokenCredentials.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/applicationTokenCredentialsBase.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/applicationTokenCredentialsBase.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/applicationTokenCredentialsBase.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/applicationTokenCredentialsBase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/applicationTokenCredentialsBase.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/applicationTokenCredentialsBase.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/azureCliCredentials.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/azureCliCredentials.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/azureCliCredentials.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/azureCliCredentials.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/msiAppServiceTokenCredentials.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/msiAppServiceTokenCredentials.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/msiAppServiceTokenCredentials.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/msiAppServiceTokenCredentials.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/msiAppServiceTokenCredentials.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/msiAppServiceTokenCredentials.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/msiTokenCredentials.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/msiTokenCredentials.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/msiTokenCredentials.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/msiTokenCredentials.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/msiTokenCredentials.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/msiTokenCredentials.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/msiTokenCredentials.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/msiTokenCredentials.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/msiVmTokenCredentials.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/msiVmTokenCredentials.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/msiVmTokenCredentials.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/msiVmTokenCredentials.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/msiVmTokenCredentials.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/msiVmTokenCredentials.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/tokenCredentialsBase.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/tokenCredentialsBase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/tokenCredentialsBase.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/credentials/tokenCredentialsBase.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/login.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/login.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/login.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/login.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/subscriptionManagement/subscriptionUtils.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/subscriptionManagement/subscriptionUtils.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/subscriptionManagement/subscriptionUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/subscriptionManagement/subscriptionUtils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/subscriptionManagement/subscriptionUtils.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/dist/lib/subscriptionManagement/subscriptionUtils.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/lib/credentials/applicationTokenCertificateCredentials.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/lib/credentials/applicationTokenCertificateCredentials.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/lib/credentials/applicationTokenCredentials.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/lib/credentials/applicationTokenCredentials.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/lib/credentials/applicationTokenCredentialsBase.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/lib/credentials/applicationTokenCredentialsBase.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/lib/credentials/azureCliCredentials.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/lib/credentials/azureCliCredentials.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/lib/credentials/msiAppServiceTokenCredentials.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/lib/credentials/msiAppServiceTokenCredentials.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/lib/credentials/msiTokenCredentials.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/lib/credentials/msiTokenCredentials.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/lib/credentials/msiVmTokenCredentials.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/lib/credentials/msiVmTokenCredentials.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/lib/credentials/tokenCredentialsBase.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/lib/credentials/tokenCredentialsBase.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/lib/login.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/lib/login.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/lib/subscriptionManagement/subscriptionUtils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/lib/subscriptionManagement/subscriptionUtils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@azure/ms-rest-nodeauth/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/assert.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/assert.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/constants.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/constants.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/crypto.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/crypto.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/fs.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/fs.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/globals.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/globals.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/http2.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/http2.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/os.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/os.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/querystring.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/querystring.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/repl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/repl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/stream.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/stream.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/tls.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/tls.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/trace_events.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/trace_events.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/tty.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/tty.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/util.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/util.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adal-node/node_modules/@types/node/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adal-node/node_modules/@types/node/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adal-node/node_modules/@types/node/base.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adal-node/node_modules/@types/node/base.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adal-node/node_modules/@types/node/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adal-node/node_modules/@types/node/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/adal-node/node_modules/@types/node/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/adal-node/node_modules/@types/node/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/big-number/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/big-number/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/big-number/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/big-number/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/big-number/big-number.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/big-number/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/big-number/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/big-number/test/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es-abstract/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-abstract/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es-abstract/.nycrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-abstract/.nycrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es-abstract/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-abstract/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es-abstract/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-abstract/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es-abstract/es2015.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-abstract/es2015.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es-abstract/es2016.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-abstract/es2016.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es-abstract/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-abstract/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es-abstract/test/es2015.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-abstract/test/es2015.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es-abstract/test/es2016.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-abstract/test/es2016.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es-abstract/test/es2017.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-abstract/test/es2017.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es-abstract/test/es2018.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-abstract/test/es2018.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es-abstract/test/es2019.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-abstract/test/es2019.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es-abstract/test/tests.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-abstract/test/tests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es-to-primitive/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es-to-primitive/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-to-primitive/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es-to-primitive/.jscs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es-to-primitive/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-to-primitive/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es-to-primitive/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-to-primitive/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es-to-primitive/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-to-primitive/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es-to-primitive/helpers/isPrimitive.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-to-primitive/helpers/isPrimitive.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es-to-primitive/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-to-primitive/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es-to-primitive/test/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es-to-primitive/test/es5.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-to-primitive/test/es5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es-to-primitive/test/es6.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es-to-primitive/test/es6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-inspect/.nycrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/object-inspect/.nycrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-inspect/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/object-inspect/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-inspect/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/object-inspect/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-inspect/example/all.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/object-inspect/example/all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-inspect/example/circular.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/object-inspect/example/circular.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-inspect/example/fn.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/object-inspect/example/fn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-inspect/example/inspect.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/object-inspect/example/inspect.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-inspect/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/object-inspect/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-inspect/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/object-inspect/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-inspect/test/bigint.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/object-inspect/test/bigint.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-inspect/test/browser/dom.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/object-inspect/test/browser/dom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-inspect/test/circular.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/object-inspect/test/circular.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-inspect/test/deep.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/object-inspect/test/deep.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-inspect/test/element.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/object-inspect/test/element.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-inspect/test/err.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/object-inspect/test/err.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-inspect/test/fn.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/object-inspect/test/fn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-inspect/test/has.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/object-inspect/test/has.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-inspect/test/holes.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/object-inspect/test/holes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-inspect/test/inspect.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/object-inspect/test/inspect.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-inspect/test/lowbyte.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/object-inspect/test/lowbyte.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-inspect/test/undef.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/object-inspect/test/undef.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-inspect/test/values.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/object-inspect/test/values.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sequelize/lib/associations/belongs-to-many.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/sequelize/lib/associations/belongs-to-many.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sequelize/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/sequelize/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sequelize/types/lib/model.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/sequelize/types/lib/model.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sequelize/types/lib/transaction.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/sequelize/types/lib/transaction.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/bulk-load.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/bulk-load.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/connection.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/connection.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/connector.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/connector.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-type.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-type.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/bigint.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/bigint.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/binary.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/binary.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/bit.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/bit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/bitn.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/bitn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/char.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/char.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/date.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/date.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/datetime.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/datetime.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/datetime2.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/datetime2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/datetimen.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/datetimen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/datetimeoffset.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/datetimeoffset.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/decimal.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/decimal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/decimaln.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/decimaln.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/float.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/float.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/floatn.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/floatn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/image.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/image.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/int.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/int.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/intn.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/intn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/money.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/money.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/moneyn.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/moneyn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/nchar.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/nchar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/ntext.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/ntext.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/null.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/null.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/numeric.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/numeric.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/numericn.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/numericn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/nvarchar.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/nvarchar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/real.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/real.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/smalldatetime.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/smalldatetime.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/smallint.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/smallint.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/smallmoney.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/smallmoney.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/sql-variant.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/sql-variant.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/text.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/text.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/time.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/time.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/tinyint.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/tinyint.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/tvp.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/tvp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/udt.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/udt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/uniqueidentifier.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/uniqueidentifier.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/varbinary.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/varbinary.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/varchar.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/varchar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/xml.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/data-types/xml.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/debug.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/debug.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/guid-parser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/guid-parser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/incoming-message-stream.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/incoming-message-stream.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/instance-lookup.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/instance-lookup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/library.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/library.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/login7-payload.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/login7-payload.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/message-io.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/message-io.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/message.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/message.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/metadata-parser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/metadata-parser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/ntlm-payload.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/ntlm-payload.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/outgoing-message-stream.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/outgoing-message-stream.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/packet.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/packet.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/prelogin-payload.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/prelogin-payload.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/request.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/rpcrequest-payload.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/rpcrequest-payload.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/sender.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/sender.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/special-stored-procedure.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/special-stored-procedure.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/tds-versions.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/tds-versions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/tedious.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/tedious.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/token/colmetadata-token-parser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/token/colmetadata-token-parser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/token/done-token-parser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/token/done-token-parser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/token/env-change-token-parser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/token/env-change-token-parser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/token/feature-ext-ack-parser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/token/feature-ext-ack-parser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/token/fedauth-info-parser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/token/fedauth-info-parser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/token/infoerror-token-parser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/token/infoerror-token-parser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/token/loginack-token-parser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/token/loginack-token-parser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/token/nbcrow-token-parser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/token/nbcrow-token-parser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/token/order-token-parser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/token/order-token-parser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/token/returnstatus-token-parser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/token/returnstatus-token-parser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/token/returnvalue-token-parser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/token/returnvalue-token-parser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/token/row-token-parser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/token/row-token-parser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/token/sspi-token-parser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/token/sspi-token-parser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/token/stream-parser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/token/stream-parser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/token/token-stream-parser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/token/token-stream-parser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/token/token.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/token/token.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/tracking-buffer/bigint.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/tracking-buffer/writable-tracking-buffer.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/tracking-buffer/writable-tracking-buffer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/transaction.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/transaction.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/transient-error-lookup.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/transient-error-lookup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/lib/value-parser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/lib/value-parser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/pull_request_template.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/pull_request_template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tedious/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tedious/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1SpeO0s51y1bbQQc3oq107IFCtP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Dropbox/Ingenieria 4to Semestre/learnAngular/project-store" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/desarrolloWeb/portafolio" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -46,10 +277,31 @@
       <workItem from="1572488887857" duration="25000" />
       <workItem from="1573395356003" duration="2478000" />
       <workItem from="1573403833037" duration="1304000" />
+      <workItem from="1573700196905" duration="3267000" />
+      <workItem from="1573706733813" duration="1486000" />
+      <workItem from="1573734461993" duration="1788000" />
+      <workItem from="1573780271048" duration="2842000" />
+      <workItem from="1573815581978" duration="168000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
